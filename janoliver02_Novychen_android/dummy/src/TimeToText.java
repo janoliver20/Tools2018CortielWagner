@@ -2,7 +2,9 @@
 public class TimeToText {
 
 
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+		Int x = 1;
+	 }
 
 	public static void main(String[] args) {
 	
