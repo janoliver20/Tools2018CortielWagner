@@ -5,6 +5,7 @@ public class TimeToText {
 	public void thisIsANewMethod() {
 
 		Int x = 1;
+		String s = "SendHelp";
 
 	 }
 
