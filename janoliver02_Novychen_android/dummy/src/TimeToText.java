@@ -12,6 +12,9 @@ public class TimeToText {
 	
 		System.out.print("This is a git change by Member 1");
 		
+		Int y = 1;
+		
+		
 		// input hour and minute
 		int hour = In.readInt();
 		int minute = In.readInt();
