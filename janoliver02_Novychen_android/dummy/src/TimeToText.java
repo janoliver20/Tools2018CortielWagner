@@ -6,6 +6,7 @@ public class TimeToText {
 
 		Int x = 1;
 		String s = "SendHelp";
+		Boolean b = true;
 
 	 }
 
