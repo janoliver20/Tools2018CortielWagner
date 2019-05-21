@@ -1,6 +1,9 @@
 
 public class TimeToText {
 
+
+	public void thisIsANewMethod() { }
+
 	public static void main(String[] args) {
 		
 		// input hour and minute
