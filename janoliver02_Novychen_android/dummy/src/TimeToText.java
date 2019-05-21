@@ -2,7 +2,11 @@
 public class TimeToText {
 
 
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() {
+		
+	String x = "Help us";
+
+	 }
 
 	public static void main(String[] args) {
 	
